@@ -1,4 +1,4 @@
-![logo](https://github.com/VedantBiradar22/VedantBiradar22/blob/main/ChatGPT%20Image%20Apr%202%2C%202025%2C%2008_13_08%20PM.png)
+![logo](https://github.com/VedantBiradar22/VedantBiradar22/blob/main/ChatGPT%20Image%20Apr%204%2C%202025%2C%2007_11_53%20PM.png)
 <h1 align="center">Hi 👋, I'm Vedant Biradar!</h1>
 <h3 align="center">Passionate About AI, Machine Learning & Software Engineering</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
